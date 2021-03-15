@@ -3,10 +3,10 @@ local name = "Musket" -- Change this to the Musket tool's name
 
 local Players = game:GetService("Players")
 while true do
-	for i,v in pairs(Players:GetPlayers()) do
-		if v ~= nil and v.Character ~= nil then
-			if v.Character:FindFirstChild(name) then
-				v.Character.Musket.Core.Fire:FireServer()
+	for i,plr in pairs(Players:GetPlayers()) do
+		if plr ~= nil and plr.Character ~= nil then
+			if plr.Character:FindFirstChild(name) then
+				plr.Character.Musket.Core.Fire:FireServer()
 			end
 		end
 	end
