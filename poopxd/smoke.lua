@@ -8,7 +8,6 @@ while true do
         	if v.Character:FindFirstChild(name) then
             	v.Character.Musket.Core.Fire:FireServer()
         	end
-          -- add
         end
     end
     wait(0.1)
