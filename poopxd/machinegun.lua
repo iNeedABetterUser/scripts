@@ -1,4 +1,4 @@
--- A script that automatically reloads your musket
+-- Simple script that automatically reloads your musket
 local name = "Musket" -- Change this to the Musket tool's name
 
 game:GetService("RunService").RenderStepped:Connect(function()
