@@ -6,7 +6,7 @@ while true do
 	for i,plr in pairs(Players:GetPlayers()) do
 		if plr ~= nil and plr.Character ~= nil then
 			if plr.Character:FindFirstChild(name) then
-				plr.Character.Musket.Core.Fire:FireServer()
+				plr.Character[name].Core.Fire:FireServer()
 			end
 		end
 	end
