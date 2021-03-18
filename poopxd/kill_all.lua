@@ -6,6 +6,6 @@ local name = "Musket" -- Change this to the Musket tool's name
 
 for i,v in pairs(game:GetService("Players"):GetPlayers()) do
     if v ~= nil and v.Character ~= nil then
-        game:GetService("ReplicatedStorage").ServerEvents.Damage:FireServer(_G.HistoricalKey, game:GetService("Players").LocalPlayer.Character[name].Animation.BulletDamage, v.Character["Head"], me)
+        game:GetService("ReplicatedStorage").ServerEvents.Damage:FireServer(_G.HistoricalKey, game:GetService("Players").LocalPlayer.Character[name].Animation.BulletDamage, v.Character["Head"], game:GetService("Players").LocalPlayer)
     end
 end
