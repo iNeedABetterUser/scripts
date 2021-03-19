@@ -2,6 +2,7 @@
 A few scripts for the boys
 
 * [PoopXD](https://github.com/iNeedABetterUser/scripts/tree/main/poopxd)
+  * [Crouch All Script](https://github.com/iNeedABetterUser/scripts/blob/main/poopxd/crouch_all.lua)
   * [Kill All Script](https://github.com/iNeedABetterUser/scripts/blob/main/poopxd/kill_all.lua)
   * [Machine Gun Script](https://github.com/iNeedABetterUser/scripts/blob/main/poopxd/machinegun.lua)
   * [Particle Spam Script](https://github.com/iNeedABetterUser/scripts/blob/main/poopxd/particles.lua)
