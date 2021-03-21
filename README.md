@@ -11,4 +11,8 @@ A few scripts for the boys
 * [Frontier](https://github.com/iNeedABetterUser/scripts/tree/main/frontier)
   * [Machine Gun Script](https://github.com/iNeedABetterUser/scripts/blob/main/frontier/machinegun.lua)
   * [Ammo Remove Script](https://github.com/iNeedABetterUser/scripts/blob/main/frontier/remove_ammo.lua)
+* [Europa Invicta](https://github.com/iNeedABetterUser/scripts/tree/main/europainvicta)
+  * [Auto Reload](https://github.com/iNeedABetterUser/scripts/blob/main/europainvicta/auto_reload.lua)
+  * [Machine Gun](https://github.com/iNeedABetterUser/scripts/blob/main/europainvicta/machinegun.lua)
+  * [Morale Boost](https://github.com/iNeedABetterUser/scripts/blob/main/europainvicta/morale_boost.lua)
 * [Key Finder](https://github.com/iNeedABetterUser/scripts/blob/main/keyfinder.lua) (Required for some of the other scripts)
