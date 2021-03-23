@@ -1,6 +1,7 @@
 # Scripts
 A few ROBLOX scripts for the boys
 
+## List of Current Scripts
 * [Europa Invicta](https://github.com/iNeedABetterUser/scripts/tree/main/europainvicta)
   * [Auto Reload](https://github.com/iNeedABetterUser/scripts/blob/main/europainvicta/auto_reload.lua)
   * [Machine Gun](https://github.com/iNeedABetterUser/scripts/blob/main/europainvicta/machinegun.lua)
