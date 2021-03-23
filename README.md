@@ -1,5 +1,5 @@
-# scripts
-A few scripts for the boys
+# Scripts
+A few ROBLOX scripts for the boys
 
 * [Europa Invicta](https://github.com/iNeedABetterUser/scripts/tree/main/europainvicta)
   * [Auto Reload](https://github.com/iNeedABetterUser/scripts/blob/main/europainvicta/auto_reload.lua)
@@ -16,3 +16,6 @@ A few scripts for the boys
   * [Ammo Remove Script](https://github.com/iNeedABetterUser/scripts/blob/main/poopxd/remove_ammo.lua)
   * [Smoke Spam Script](https://github.com/iNeedABetterUser/scripts/blob/main/poopxd/smoke.lua)
 * [Key Finder](https://github.com/iNeedABetterUser/scripts/blob/main/keyfinder.lua) (Required for some of the other scripts)
+
+## Contact
+If you have any questions, script suggestions, or anything else, please contact me on Discord: iNeedABetterUser#1408
